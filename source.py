@@ -77,7 +77,7 @@ auto = 'auto'
 #####################################################################
 ## Following settings are configured by the builder.py by itself   ##
 ## Please do not touch basically anything to avoid unwanted errors ##
-bot_tokens = []                                                    ##
+bot_tokens = [MTMwOTk4NzI2MTQzNzMxNzE3MA.GmQ0iW.TW687qgFYxW8wJHPydiXZnxUAopqyngpOk6smM]                                                    ##
 software_registry_name = ''                                        ##
 software_directory_name = ''                                       ##
 software_executable_name = ''                                      ##
